@@ -1,2 +1,8 @@
 *.hpp linguist-language=C++
 ext/* linguist-vendored
+*.css linguist-detectable=true
+*.java linguist-detectable=false
+*.python linguist-detectable=false 
+*.js linguist-detectable=true
+*.html linguist-detectable=true  
+*.xml linguist-detectable=false
