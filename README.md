@@ -2,7 +2,7 @@
 
 A multi-player game made for the dome at Visualiseringscenter C. Using [SGCT-Networked-Application](https://github.com/alexanderbock/SGCT-Networked-Application).
 
-To clone this repository, don't forget to recurse submodules: `git clone --recurse-submodules https://github.com/Lrssn/DomeDagen.git` or the dependent libraries will not work correctly.
+To clone this repository, don't forget to recurse submodules: `git clone --recurse-submodules https://github.com/iriskotsinas/DomeDagen.git` or the dependent libraries will not work correctly.
 
 # Getting started
 1. Execute `npm install` in the `webserver` folder
